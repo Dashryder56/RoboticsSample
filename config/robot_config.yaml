@@ -1,0 +1,12 @@
+robot:
+  name: warehouse-bot
+  control_mode: autonomous
+
+motion:
+  max_autonomous_speed_mps: 0.50
+  max_manual_speed_mps: 0.25
+  emergency_stop_enabled: true
+
+sensors:
+  obstacle_detection_enabled: true
+  minimum_clearance_m: 0.20
