@@ -3,7 +3,7 @@ robot:
   control_mode: autonomous
 
 motion:
-  max_autonomous_speed_mps: 0.50
+  max_autonomous_speed_mps: 0.35
   max_manual_speed_mps: 0.25
   emergency_stop_enabled: true
 

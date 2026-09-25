@@ -10,6 +10,8 @@ This repository demonstrates a lightweight robot control loop used to test auton
 
 Robot motion limits are defined in `config/robot_config.yaml`.
 
+Autonomous operation is limited to 0.35 m/s.
+
 The controller supports obstacle detection, minimum-clearance rules, and emergency-stop behavior.
 
 ## Configuration
